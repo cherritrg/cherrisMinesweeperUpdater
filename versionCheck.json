@@ -1,9 +1,9 @@
 {
   "homepage": "https://modrinth.com/mod/cherris-minesweeper/versions",
     "1.21.1": {
-      "1.2": "idk yet",
+      "1.2.0": "idk yet",
       "1.1.1": "<Infinite board generation, XYZZY cheat, more Displays, and SO MANY fixes!!>",
-      "1.1": "<MINESCREEPER tiles, double mines, custom board sizes and awesome gamerules!>",
+      "1.1.0": "<MINESCREEPER tiles, double mines, custom board sizes and awesome gamerules!>",
       "1.0.0": "<Release - retro and stone tiles, flags, erasers, all that good stuff.>"
     },
      "promos": {
