@@ -1,0 +1,12 @@
+{
+  "homepage": "https://modrinth.com/mod/cherris-minesweeper",
+  "1.21.1": {
+    "1.1.1": "Added Infinite Board Generator, more Displays, the XYZZY cheat, and MANY fixes!!", 
+    "1.1.0": "Added MINESCREEPER tiles, cool new gamerules, custom boards, tile sounds, and more!", 
+    "1.0.0": "Release - retro and stone tiles, flags, erasers, all that good stuff.", 
+  },
+  "promos": {
+    "1.21.1-latest": "1.1.1",
+    "1.21.1-recommended": "1.1.1",
+  }
+}
